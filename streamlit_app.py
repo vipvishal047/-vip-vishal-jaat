@@ -30,6 +30,6 @@ st.markdown("<h3 style='color: #00ffcc;'>OFFLINE SERVER ONLINE</h3>", unsafe_all
 st.write("---")
 st.write("Welcome to my official website!")
 
-st.link_button("📸 Instagram", "https://instagram.com/", use_container_width=True)
-st.link_button("▶️ YouTube", "https://youtube.com/", use_container_width=True)
-st.link_button("💬 WhatsApp", "https://wa.me/", use_container_width=True)
+st.link_button("📸 Facebook", "https://Facebook .com/", use_container_width=True)
+st.link_button("▶️ Facebook ", "https://Facebook .com/", use_container_width=True)
+st.link_button("💬 Facebook ", "https://wa.me/", use_container_width=True)
